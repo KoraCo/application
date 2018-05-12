@@ -1,2 +1,2 @@
 # application
-app1
+KORAinc
